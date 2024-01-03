@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.29
+
+### Patch Changes
+
+- fix: support TypeScript's `satisfies` operator ([#10068](https://github.com/sveltejs/svelte/pull/10068))
+
 ## 5.0.0-next.28
 
 ### Patch Changes
